@@ -47,7 +47,7 @@ Sunrise On The Reaping - Suzanne Collins
 Controls Engineering in the FIRST Robotics Competition - Tyler Veness
 
 #### Drawing 🖌️: 
-I use both physical mediums like water color and Krita, an open source digital art software. I'm not the best, but I'm working on it!
+I use both physical mediums like watercolor, as well as Krita, an open source digital art software. I'm not the best, but I'm working on it!
 
 
 
