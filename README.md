@@ -1,16 +1,53 @@
-## Hi there 👋
+## Hey!
+Im LenekyRadish! I love programming as much as the next CS obsessed person here on the internet. I also enjoy chemistry, robotics, and a bunch of other stuff too.
+### Some things I do in my stupid amount of free time
+#### FIRST Robotics - Team Tators 🥔:
+Man, I sure do love 150 pound robots. I have had the absolute pleasure of being on this amazing robotics team for the past year as a web devloper and programmer, and the people are truly amazing. Counting down the days until BIOCORE kickoff! 
 
-<!--
-**LenekyRadish/LenekyRadish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heres a sick ASCII chart of my hard-earned hours doing stuff for the team during the REBUILT Season (peak game btw):
+~~~
+        |                                                              
+        |                                                              
+      50|                                                              
+        |                                                      .       
+        |                                          .           .       
+        |                                          .          ..       
+      40|                                         ..          ..       
+        |                                         ..         . ..      
+        |                                        .  .       ..  .      
+        |                                        .  .       .   ..     
+      30|                                       .   .      .     .     
+Hours   |                                      .    .     ..     ....  
+        |                              .      .     .     .         ...
+        |                             . .    .      .   ..             
+      20|                            .   .  .       . ..               
+        |.      ........    ..........   ...        ..                 
+        | .    .       ..  ..                                          
+        |  .  .          ..                                            
+      10|   ..                                                         
+        |                                                              
+        |                                                              
+        +------------------------------------------------------------- 
+            2        4      6      8     10     12     14      16      
+                                                                       
+                                     Week Number                       
+~~~
+ 
 
-Here are some ideas to get you started:
+#### ACS Research ⚡:
+This summer, I am getting the amazing oppurtunity to do computational electrocatalysis research at Boise State University!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Reading 📖:
+I got kind of busy during competiton season, but I do love a good book, fictuous or otherwise.
+
+**Last Read:**
+Sunrise On The Reaping - Suzanne Collins
+
+**Currently Reading:**
+Controls Engineering in the FIRST Robotics Competition - Tyler Veness
+
+#### Drawing 🖌️: 
+I use both physical mediums like water color and Krita, an open source digital art software. I'm not the best, but working on it!
+
+
+
