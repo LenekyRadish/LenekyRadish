@@ -37,17 +37,5 @@ Hours   |                                      .    .     ..     ....
 #### ACS Research⚡:
 This summer, I got the amazing opportunity to do computational electrocatalysis research at Boise State University!
 
-#### Reading📖:
-I got kind of busy during competition season, but I do love a good book, fictitious or otherwise.
-
-**Last Read:**
-Sunrise On The Reaping - Suzanne Collins
-
-**Currently Reading:**
-Controls Engineering in the FIRST Robotics Competition - Tyler Veness
-
-#### Drawing🖌️: 
-I use both physical mediums like watercolor, as well as Krita, an open source digital art software. I'm not the best, but I'm working on it!
-
 
 
