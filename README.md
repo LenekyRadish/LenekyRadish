@@ -35,7 +35,7 @@ Hours   |                                      .    .     ..     ....
  
 
 #### ACS Research⚡:
-This summer, I got the amazing opportunity to do computational electrocatalysis research at Boise State University!
+This summer, I got the amazing opportunity to do computational electrocatalysis research at my local university!
 
 
 
