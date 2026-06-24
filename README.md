@@ -37,5 +37,8 @@ Hours   |                                      .    .     ..     ....
 #### ACS Research⚡:
 This summer, I got the amazing opportunity to do computational electrocatalysis research at my local university!
 
+#### AI4ALL Robotics at Stanford
+I'm working on build a robotic arm that sorts ojects by color!
+
 
 
