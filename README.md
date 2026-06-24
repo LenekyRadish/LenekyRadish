@@ -38,7 +38,7 @@ Hours   |                                      .    .     ..     ....
 This summer, I got the amazing opportunity to do computational electrocatalysis research at my local university!
 
 #### AI4ALL Robotics at Stanford
-I'm working on build a robotic arm that sorts ojects by color!
+I'm working on build a robotic arm that sorts objects by color with a couple of my classmates in the AI4ALL program :)
 
 
 
