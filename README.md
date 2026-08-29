@@ -1,10 +1,10 @@
 ## Hey!
 I'm LenekyRadish! I love programming as much as the next CS obsessed person here on the internet. I also enjoy chemistry, robotics, and a bunch of other stuff too.
-### Some things I do in my stupid amount of free time
+### Some things I do in my free time
 #### FIRST Robotics Competition:
-Man, I sure do love 150 pound robots. I have had the absolute pleasure of being a FIRST robotics team for the past year as a web developer and programmer, and the people are truly amazing. Counting down the days until BIOCORE kickoff! 
+I love programming robots! Counting down the days till BIOCORE!
 
-Here's an ASCII chart I made of my hard-earned hours doing stuff for the team during the REBUILT Season:
+Epic REBUILT hour chart I made:
 ~~~
         |                                                              
         |                                                              
@@ -34,8 +34,8 @@ Hours   |                                      .    .     ..     ....
 ~~~
  
 
-#### ACS Research⚡:
-This summer, I got the amazing opportunity to do computational electrocatalysis research at my local university!
+#### Computational Electrocatalysis Research:
+I'm working on benchmarking and optimizing this software that predicts g-adsorption energies for faster catalyst screening!
 
 #### AI4ALL Robotics at Stanford:
 I helped plan the production of and oversaw programming for a robotic arm that sorts objects using machine learning! 
